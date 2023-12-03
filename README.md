@@ -27,3 +27,10 @@ SOFTWARE REQUIREMENTS
               Libraries Used: NumPy, Tkinter, media pipe, time, OpenCV
 
 
+SCREEN SHOTS
+
+
+
+![](C:\Users\user\Pictures\Screenshots.jpg)
+
+
