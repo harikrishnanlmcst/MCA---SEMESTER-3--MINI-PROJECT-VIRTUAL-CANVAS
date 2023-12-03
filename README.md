@@ -31,6 +31,6 @@ SCREEN SHOTS
 
 
 
-![](C:\Users\user\Pictures\Screenshots.jpg)
+![](SCREENSHOTS/LOGIN PAGE.png)
 
 
