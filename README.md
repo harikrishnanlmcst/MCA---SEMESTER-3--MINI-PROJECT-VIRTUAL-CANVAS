@@ -31,6 +31,6 @@ SCREEN SHOTS
 
 
 
-![](SCREENSHOTS/LOGIN PAGE.png)
+![]([](https://github.com/harikrishnanlmcst/MCA---SEMESTER-3--MINI-PROJECT-VIRTUAL-CANVAS/blob/main/SCREENSHOTS/LOGIN%20PAGE.png)
 
 
