@@ -27,10 +27,6 @@ SOFTWARE REQUIREMENTS
               Libraries Used: NumPy, Tkinter, media pipe, time, OpenCV
 
 
-SCREEN SHOTS
 
-
-
-![]([](https://github.com/harikrishnanlmcst/MCA---SEMESTER-3--MINI-PROJECT-VIRTUAL-CANVAS/blob/main/SCREENSHOTS/LOGIN%20PAGE.png)
 
 
